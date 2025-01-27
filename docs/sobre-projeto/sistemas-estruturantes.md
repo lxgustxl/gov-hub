@@ -44,7 +44,7 @@ Embora os sistemas sejam indispensáveis, muitos enfrentam desafios históricos 
   A fragmentação exige que gestores realizem processos manuais de cruzamento de dados, reduzindo a agilidade nas respostas governamentais.
   
 - **Barreiras à Transparência:**  
-  Dados não integrados dificultam a geração de relatórios abrangentes, impactando negativamente a accountability pública.
+  Dados não integrados dificultam a geração de relatórios abrangentes, impactando negativamente a prestação de contas pública.
 
 ---
 
@@ -58,7 +58,7 @@ Por meio de APIs bem documentadas e processos automatizados, o projeto promove a
 
 ### Qualificação de Dados
 
-Os dados coletados são processados, cruzados e organizados em tabelas otimizadas, como as **tabelas Silver** e **Gold**, criando uma base sólida para análises estratégicas.
+Os dados coletados são processados, cruzados e organizados em tabelas otimizadas dentro de um Data Warehouse, criando uma base sólida para análises estratégicas.
 
 ### Visualização e Relatórios Automatizados
 

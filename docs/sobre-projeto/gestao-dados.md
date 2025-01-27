@@ -13,7 +13,7 @@ A gestão orientada a dados é uma abordagem estratégica que reconhece os dados
    A abordagem integra informações provenientes de diferentes sistemas estruturantes, eliminando redundâncias e promovendo uma visão unificada.
 
 3. **Aumento da Transparência**  
-   O uso de dados facilita o acesso a informações estratégicas, permitindo maior accountability e confiança pública.
+   O uso de dados facilita o acesso a informações estratégicas, permitindo maior prestação de contas e confiança pública.
 
 4. **Monitoramento de Resultados**  
    Indicadores e métricas de desempenho ajudam a monitorar metas, avaliar impactos e ajustar estratégias de forma ágil.
@@ -24,17 +24,20 @@ A gestão orientada a dados é uma abordagem estratégica que reconhece os dados
 
 ### 1. **Qualificação e Governança de Dados**
 A qualificação dos dados é a base para gerar informações úteis e acionáveis. Isso envolve:
+
 - Identificação de fontes confiáveis.
 - Validação de dados para evitar inconsistências.
-- Criação de tabelas organizadas (como Silver e Gold) para análises mais detalhadas.
+- Modelagem dos dados em tabelas organizadas para análises mais detalhadas.
 
 ### 2. **Automação e Eficiência Operacional**
 Ferramentas como **Airflow** são utilizadas para automatizar a coleta e o processamento de dados, permitindo:
+
 - Pipelines eficientes para grandes volumes de informações.
 - Redução de erros operacionais através de processos automatizados.
 
 ### 3. **Modelagem Dimensional e Integração**
 Por meio do **DBT (Data Build Tool)**, os dados são transformados em modelos dimensionais que:
+
 - Facilitam análises específicas.
 - Garantem que tabelas estejam organizadas para integrações futuras entre diferentes sistemas estruturantes.
 
@@ -53,38 +56,10 @@ Dados bem organizados e acessíveis fortalecem a confiança da sociedade na gest
 
 ---
 
-## Principais Ferramentas e Tecnologias
-
-### 1. **Airflow**
-Utilizado para orquestrar e monitorar pipelines de dados. Ele é essencial para integrar diferentes sistemas estruturantes e automatizar fluxos de trabalho.
-
-### 2. **DBT (Data Build Tool)**
-Uma ferramenta que transforma dados brutos em modelos analíticos otimizados, assegurando a governança e a rastreabilidade de todas as transformações.
-
-### 3. **Ferramentas de Visualização**
-Ferramentas como **Apache Superset** e **PowerBI** são integradas ao sistema para criar visualizações impactantes e customizáveis.
-
----
-
-## Exemplo Prático: A Jornada de um Dado
-
-1. **Coleta**  
-   Dados brutos são extraídos de sistemas estruturantes como SIAFI, SIAPE e SIOP.
-
-2. **Processamento**  
-   Airflow organiza e padroniza os dados, eliminando redundâncias.
-
-3. **Transformação**  
-   O DBT converte os dados em modelos analíticos (tabelas Silver e Gold).
-
-4. **Análise**  
-   Relatórios e dashboards são gerados para diferentes contextos administrativos, como finanças, contratos e pessoal.
-
----
-
 ## Caminhos para o Futuro
 
 O futuro da gestão orientada a dados está alinhado à adoção de padrões abertos, inteligência artificial e big data. Isso permitirá:
+
 - Antecipação de tendências com base em análises preditivas.
 - Tomada de decisão mais proativa e eficaz.
 - Construção de um ecossistema integrado, onde os dados são tratados como ativos estratégicos e compartilhados de forma ética e segura.

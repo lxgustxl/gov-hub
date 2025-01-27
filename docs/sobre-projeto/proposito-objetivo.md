@@ -1,4 +1,4 @@
-O projeto **Dados Qualificados para Gestão e Transparência** tem como propósito fundamental enfrentar os desafios associados à fragmentação, redundância e inconsistências nos sistemas estruturantes do governo federal. Seu principal objetivo é criar uma abordagem inovadora e estratégica que transforme os dados públicos em ativos valiosos, promovendo a eficiência administrativa, a transparência e a confiança pública.
+O projeto tem como propósito fundamental enfrentar os desafios associados à fragmentação, redundância e inconsistências nos sistemas estruturantes do governo federal. Seu principal objetivo é criar uma abordagem inovadora e estratégica que transforme os dados públicos em ativos valiosos, promovendo a eficiência administrativa, a transparência e a confiança pública.
 
 ## Propósito
 
@@ -20,7 +20,7 @@ O projeto **Dados Qualificados para Gestão e Transparência** tem como propósi
   Oferecer ferramentas e diretrizes para que os gestores públicos possam explorar o potencial dos dados disponíveis de maneira eficiente e autônoma.
 
 - **Construir uma Infraestrutura Tecnológica Sustentável**  
-  Utilizar tecnologias abertas para garantir que os sistemas sejam expansíveis, flexíveis e adaptáveis às mudanças futuras.
+  Utilizar tecnologias open source para garantir que os sistemas sejam expansíveis, flexíveis e adaptáveis às mudanças futuras.
 
 - **Promover a Cultura Organizacional de Dados**  
   Incentivar a alfabetização em dados em todas as esferas governamentais, criando uma cultura que valorize práticas éticas, segurança e transparência.
@@ -34,6 +34,4 @@ O projeto **Dados Qualificados para Gestão e Transparência** tem como propósi
   A redução de redundâncias e inconsistências nos sistemas estruturantes contribui para otimizar o uso de recursos e melhorar os serviços oferecidos pelo governo.
 
 - **Fortalecimento da Transparência Governamental**  
-  A publicação de dados organizados e acessíveis amplia a accountability e fortalece o controle social.
-
-Este projeto não apenas enfrenta os desafios atuais, mas estabelece as bases para um ecossistema de dados governamentais mais acessível, conectado e eficaz, alinhado às demandas do século XXI.
+  A publicação de dados organizados e acessíveis amplia a auditoria e fortalece o controle social.

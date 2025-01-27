@@ -1,6 +1,6 @@
 # Getting Started with Data Pipeline Project
 
-O **Data Pipeline Project** é uma solução moderna que utiliza ferramentas como **Airflow**, **DBT**, **Jupyter** e **Superset** para orquestração, transformação, análise e visualização de dados. Este guia ajudará você a começar rapidamente, cobrindo desde a configuração inicial até a execução de um pipeline de exemplo.
+O **Data Pipeline Project** é uma solução moderna que utiliza ferramentas como **Airflow**, **DBT**, **Jupyter** e **Superset** para orquestração, transformação, análise e visualização de dados. Este guia ajudará você a começar rapidamente.
 
 ---
 
@@ -14,6 +14,7 @@ Antes de começar, certifique-se de ter os seguintes softwares instalados:
 - **Git**: Controle de versão.
 
 Caso precise de ajuda para instalar esses componentes, consulte a documentação oficial de cada ferramenta:
+
 - [Instalação do Docker](https://docs.docker.com/get-docker/)
 - [Guia do Python](https://www.python.org/downloads/)
 - [Guia do Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -40,6 +41,7 @@ make setup
 ```
 
 Este comando irá:
+
 - Criar ambientes virtuais necessários.
 - Instalar dependências do projeto.
 - Configurar hooks de pré-commit.
