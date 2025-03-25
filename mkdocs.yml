@@ -164,6 +164,7 @@ nav:
     - Guia de Novo usuario: guia-usuario.md
   - Community:
     - Guia de Contribuição: contributing/guia-contribuicao.md
+    - Tecnologias: contributing/tecnologias.md
     - Visão Geral - Arquitetura do Projeto: contributing/arquitetura.md
     - Como importar um banco de dados de sistema estruturante: contributing/extrair.md
     - Como Qualificar dados: contributing/qualificar.md
