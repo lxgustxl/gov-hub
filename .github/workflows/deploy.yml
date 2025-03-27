@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'docs/**'
+      - 'mkdocs.yml'
 
 jobs:
   build-and-deploy:
@@ -24,8 +25,11 @@ jobs:
         run: |
           pip install mkdocs mkdocs-material
 
-      - name: Build site
+      - name: Build MkDocs site
         run: mkdocs build
 
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
