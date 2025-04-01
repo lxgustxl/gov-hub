@@ -1,9 +1,9 @@
-## Como importar um banco de dados de sistema estruturante
 # Gov Hub BR — Integração com sistemas estruturantes
 
 O **Gov Hub BR** é uma plataforma livre e colaborativa voltada à integração de dados e informações governamentais. A proposta central do projeto é enfrentar um dos maiores desafios da gestão pública: a fragmentação e a inconsistência dos dados entre os diversos sistemas governamentais.
 
 O objetivo desta página é apresentar as principais fontes que estamos utilizando ao consultar dados públicos e apresentar um direcionamento de onde essas documentações especifícas podem ser usadas, de forma geral, sempre que quisermos importar um banco de dados de algum sistema utilizaremos suas APIS abertas para fazer a solicitação desses dados
+
 ---
 
 ## Como importar um banco de dados de sistema estruturante
