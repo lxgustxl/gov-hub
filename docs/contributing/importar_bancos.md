@@ -57,13 +57,14 @@ Os dados coletados por meio das APIs são organizados seguindo boas práticas de
 
 **Exemplo — Esquema: contratos**
 
-contratos/
-├── bronze_contratos
-├── bronze_faturas
-├── bronze_empenhos
-├── silver_notas_empenho_contratos
-├── gold_contratos_detalhados
-
+```bash
+contratos/ 
+├── bronze_contratos 
+├── bronze_faturas 
+├── bronze_empenhos 
+├── silver_notas_empenho_contratos 
+└── gold_contratos_detalhados
+```
 
 - **Bronze**: dados brutos importados diretamente da fonte
 - **Silver**: dados transformados e limpos para uso analítico

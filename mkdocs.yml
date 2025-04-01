@@ -165,10 +165,10 @@ nav:
   - Community:
     - Guia de Contribuição: contributing/guia-contribuicao.md
     - Tecnologias: contributing/tecnologias.md
-    - Visão Geral - Arquitetura do Projeto: contributing/arquitetura.md
+    - Arquitetura do Projeto: contributing/arquitetura.md
     - Como importar um banco de dados de sistema estruturante: contributing/importar_bancos.md
     - Como Qualificar dados: contributing/qualificar.md
-    - Como cruzar/integrar bases de dados: contributing/integrar.md
-    - Como gerar relatórios/Dashboards: contributing/visualizar_dashboards.md
+    - Como integrar bases de dados: contributing/integrar.md
+    - Como gerar Dashboards: contributing/visualizar_dashboards.md
     - Melhores Praticas: contributing/praticas.md
-    - Como implantar/Deploy: contributing/deploy.md
+    - Como implantar um Deploy: contributing/deploy.md
