@@ -162,6 +162,12 @@ nav:
   - Getting started:
     - Instalação: getting-started.md
     - Guia de Novo usuario: guia-usuario.md
+  - Replicação:
+    - Visão Geral: replicacao/index.md
+    - Pré-requisitos: replicacao/pre-requisitos.md
+    - Arquitetura de Solução: replicacao/arquitetura.md
+    - Integração de Dados: replicacao/integracao-dados.md
+    - Dashboards e Templates: replicacao/dashboard-templates.md
   - Community:
     - Guia de Contribuição: contributing/guia-contribuicao.md
     - Tecnologias: contributing/tecnologias.md
