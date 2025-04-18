@@ -167,7 +167,7 @@ nav:
     - Pré-requisitos: replicacao/pre-requisitos.md
     - Arquitetura de Solução: replicacao/arquitetura.md
     - Integração de Dados: replicacao/integracao-dados.md
-    - Dashboards e Templates: replicacao/dashboard-templates.md
+    - Dashboards e Templates: replicacao/dashboards-templates.md
   - Community:
     - Guia de Contribuição: contributing/guia-contribuicao.md
     - Tecnologias: contributing/tecnologias.md
