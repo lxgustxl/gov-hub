@@ -1,5 +1,5 @@
 site_name: GovHubBR
-site_url: "https://gces-govhub.github.io/gov-hub/"
+site_url: "https://govhub.github.io/govhub/"
 site_author: Lab Livre
 site_description: >-
   Gov Hub - plataforma livre de integração de dados e informações governamentais - Explore como a gestão orientada a dados pode transformar a administração pública, 
@@ -9,7 +9,7 @@ site_description: >-
 
 # Repository
 repo_name: GovHub-br/govhub
-repo_url: https://github.com/gces-govhub/gov-hub
+repo_url: https://github.com/GovHub-br/govhub
 
 # Copyright
 copyright: Lab Livre 2025
